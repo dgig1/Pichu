@@ -19,6 +19,7 @@ Este repositório contém o código-fonte da landing page oficial do **EchoFest 
 /echofest-website
 │── index.html         # Página principal do site
 │── style.css          # Arquivo de estilos
+│── script.js          # Scripts do site
 │── imagens/           # Pasta para imagens do festival
 └── README.md          # Documentação do projeto bash
 ```
